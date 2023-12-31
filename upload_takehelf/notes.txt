@@ -1,0 +1,2 @@
+1. When you set DEBUG = False in your Django settings for a production environment, it means that Django will no longer serve static files for you. Serving static files is a development feature.
+2. 
